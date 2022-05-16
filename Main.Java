@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         boolean stop = false;
-            System.out.println("Quadsar/AldibahDev encryption test algorithm");
+            System.out.println("Quadsar/EveningSt3r encryption test algorithm");
             System.out.println("This program takes an input string and shifts each character in that string to the right by an integer" +
                     "provided by the user.");
             String directions = "Enter 1 to display functions: \n" +
